@@ -12,6 +12,7 @@
 		D4D09B552058819100688794 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4D09B532058819100688794 /* Main.storyboard */; };
 		D4D09B572058819100688794 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4D09B562058819100688794 /* Assets.xcassets */; };
 		D4D09B5A2058819100688794 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4D09B582058819100688794 /* LaunchScreen.storyboard */; };
+		D4D09B622058827400688794 /* adaptive_ui_images in Resources */ = {isa = PBXBuildFile; fileRef = D4D09B612058827400688794 /* adaptive_ui_images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D4D09B562058819100688794 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4D09B592058819100688794 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4D09B5B2058819100688794 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4D09B612058827400688794 /* adaptive_ui_images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = adaptive_ui_images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D4D09B4F2058819100688794 /* AppDelegate.swift */,
 				D4D09B512058819100688794 /* ViewController.swift */,
 				D4D09B532058819100688794 /* Main.storyboard */,
+				D4D09B612058827400688794 /* adaptive_ui_images */,
 				D4D09B562058819100688794 /* Assets.xcassets */,
 				D4D09B582058819100688794 /* LaunchScreen.storyboard */,
 				D4D09B5B2058819100688794 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				D4D09B5A2058819100688794 /* LaunchScreen.storyboard in Resources */,
 				D4D09B572058819100688794 /* Assets.xcassets in Resources */,
+				D4D09B622058827400688794 /* adaptive_ui_images in Resources */,
 				D4D09B552058819100688794 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
